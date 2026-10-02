@@ -32,7 +32,7 @@ export function AboutScreen({ onBack }: AboutScreenProps) {
           className="font-display text-accent-primary tracking-wide text-center mb-1"
           style={{ fontSize: 'clamp(22px, 2.2vw, 36px)' }}
         >
-          Über dieses Projekt
+          🛡️ Über dieses Projekt
         </h1>
         <p className="text-text-secondary text-center" style={{ fontSize: 'clamp(12px, 0.9vw, 16px)', marginBottom: '3rem' }}>
           Operation Sentinel – Ein Forschungsprototyp zur IT-Security-Awareness
